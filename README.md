@@ -9,9 +9,9 @@ I'm Ruxin Qu, I'm a Full Stack Coding Bootcamp student from University of Washin
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 🌱 I’m currently learning Node.js 
+
+- 🌱 I’m currently learning building backend with Node.js 
 - 📫 How to reach me: [linkdin](https://www.linkedin.com/in/ruxin-qu-94a034176/)
-- 😄 Pronouns: roo-sheen
 
 
 ![my profile](./assets/profile.jpg)
