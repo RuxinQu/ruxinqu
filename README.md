@@ -14,4 +14,3 @@ I'm Ruxin Qu, I'm a Full Stack Coding Bootcamp student from University of Washin
 - 📫 How to reach me: [linkdin](https://www.linkedin.com/in/ruxin-qu-94a034176/)
 
 
-![my profile](./assets/profile.jpg)
