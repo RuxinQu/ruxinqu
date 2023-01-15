@@ -10,7 +10,7 @@ I'm Ruxin Qu, I'm a Full Stack Coding Bootcamp student from University of Washin
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 
-- 🌱 I’m currently learning building backend with Node.js 
+- 🌱 I’m currently learning react framework 
 - 📫 How to reach me: [linkdin](https://www.linkedin.com/in/ruxin-qu-94a034176/)
 
 
