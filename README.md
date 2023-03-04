@@ -2,7 +2,7 @@
 
 
 
-Hi!! I'm Ruxin Qu.
+I'm Ruxin Qu.
 
 I'm a Web Developer with 1 year coding experience and 4 years Linux/Unix experience. Recently I graduated from Full Stack Coding Bootcamp through University of Washington. I have a background M.S degree in computational chemistry. 
 
