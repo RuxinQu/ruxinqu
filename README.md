@@ -4,9 +4,9 @@
 
 I'm Ruxin Qu.
 
-I'm a Web Developer with 1 year coding experience and 4 years Linux/Unix experience. Recently I graduated from Full Stack Coding Bootcamp through University of Washington. I have a background M.S degree in computational chemistry. 
+I'm a Web Developer with one year of coding experience and four years of Linux/Unix experience. Recently, I graduated from the Full Stack Coding Bootcamp at the University of Washington. I hold an M.S degree in computational chemistry.
 
-I have a super cute golden retriever, who often reminds me not to be in front of the computer for too long and go play!
+I have a super cute golden retriever who often reminds me not to stay in front of the computer for too long and to go play!
 
 <!-- - 🔭 I’m currently working on :  -->
 <!-- - 👯 I’m looking to collaborate on ...
