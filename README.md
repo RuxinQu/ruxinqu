@@ -4,7 +4,7 @@
 
 I'm Ruxin Qu.
 
-I'm a Web Developer with 1 year of coding experience and 4 years of Linux/Unix experience. Recently, I graduated from the Full Stack Coding Bootcamp at the University of Washington. I hold an M.S degree in computational chemistry.
+I'm a Web Developer passionate about writing clean and maintainable code. Recently, I graduated from the Full Stack Coding Bootcamp at the University of Washington. I have an M.S degree in computational chemistry.
 
 I have a super cute golden retriever who often reminds me not to stay in front of the computer for too long and to go play!
 
@@ -13,7 +13,7 @@ I have a super cute golden retriever who often reminds me not to stay in front o
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 
-- 🌱 I’m currently learning AWS 
+- 🌱 I’m currently learning: AWS
 - 📫 How to reach me: [linkdin](https://www.linkedin.com/in/ruxin-qu-94a034176/)
 
 
