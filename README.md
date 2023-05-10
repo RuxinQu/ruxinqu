@@ -13,7 +13,7 @@ I have a super cute golden retriever who often reminds me not to stay in front o
 - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 
-- 🌱 I’m currently learning: AWS
+- 🌱 I’m currently learning: React Native
 - 📫 How to reach me: [linkdin](https://www.linkedin.com/in/ruxin-qu-94a034176/)
 
 
